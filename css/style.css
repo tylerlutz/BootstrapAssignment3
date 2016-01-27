@@ -83,6 +83,7 @@ footer{
 
 .orangeButton {
 	background-color: #EF6D3B;
+	font-weight: 200;
 	color: white;
 }
 
@@ -115,3 +116,35 @@ footer{
 	color: white;
 	background-color: #FA8B60;
 }
+
+.form-group label {
+	font-size: larger;
+	font-weight: 200;
+}
+
+.form-group input {
+	font-weight: 200;
+}
+
+#comment {
+	height: 150px;
+	font-weight: 200;
+}
+
+.btn-default {
+	font-weight: 200;
+}
+
+.error {
+	border: 2px solid #fb5656;
+	color: #fb5656;
+	box-shadow: 1px 1px 1px 2px #cecbc5
+}
+
+.valid {
+	border: 2px solid #259f31;
+	color: #259f31;
+	box-shadow: 1px 1px 1px 2px #cecbc5
+}
+
+
