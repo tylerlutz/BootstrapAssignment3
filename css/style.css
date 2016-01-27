@@ -10,6 +10,10 @@ footer{
 	color: #473368;
 }
 
+.spacer {
+	margin-top: 30px;
+}
+
 .navpad {
 	margin-top: 70px;
 }
@@ -61,3 +65,53 @@ footer{
 	font-weight: 200;
 }
 
+.secondaryTextColor {
+	color: #473368;
+	font-weight: 200;
+}
+
+.dropdown button {
+	background-color: #EF6D3B;
+	color: white;
+}
+
+.dropdown button:hover {
+	background-color: white;
+	color:#EF6D3B;
+	box-shadow: 1px 1px 1px 2px #cecbc5;
+}
+
+.orangeButton {
+	background-color: #EF6D3B;
+	color: white;
+}
+
+.orangeButton:hover {
+	background-color: white;
+	color:#EF6D3B;
+	box-shadow: 1px 1px 1px 2px #cecbc5;
+}
+
+.topRow {
+	margin-bottom: 50px;
+}
+
+.bottomRow {
+	margin-top: 50px;
+}
+
+#stockImage {
+	width: 350px;
+	border-radius: 4px;
+	border: solid white 10px;
+	box-shadow: 1px 1px 1px 2px #cecbc5
+}
+
+.list-group {
+	margin-top: 40px;
+}
+
+.list-group button:hover{
+	color: white;
+	background-color: #FA8B60;
+}
